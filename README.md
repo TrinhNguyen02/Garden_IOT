@@ -1,2 +1,2 @@
 # Garden_IOT
-Read data from DHT11 sensor and transmit it to broker Hivemq via MQTT protocol to monitor and control garden equipment
+Use ESP32 for read data from DHT11 sensor and transmit it to broker Hivemq via MQTT protocol to monitor and control garden equipment
